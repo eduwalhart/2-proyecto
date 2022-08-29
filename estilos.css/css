@@ -63,7 +63,7 @@
 }
 
 .body1 {
-    background-image: url(./img/light-grey-terrazzo.webp);
+    background-image: url(img/light-grey-terrazzo.webp);
 }
 
 .inline {
